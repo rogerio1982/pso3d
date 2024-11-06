@@ -1,4 +1,5 @@
-![Descrição da Imagem]([https://www.stradeeautostrade.it/img/articles/3808/un-algoritmo-pso-per-lottimizzazione-planimetrica-dei-tracciati-stradali.jpg])
+
+![Descrição da Imagem](https://www.stradeeautostrade.it/img/articles/3808/un-algoritmo-pso-per-lottimizzazione-planimetrica-dei-tracciati-stradali.jpg)
 
 
 Particle Swarm Optimization (PSO) - Rastrigin Function Minimization
